@@ -102,7 +102,7 @@ Modern e-commerce platform with authentication, admin dashboard, payment integra
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=adilraj786&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
