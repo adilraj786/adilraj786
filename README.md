@@ -1,175 +1,139 @@
-# Hi, I'm Adil 👋
+<h1 align="center">Hi 👋, I'm Adil</h1>
+
+<h3 align="center">
+Full Stack Developer • Cyber Security Enthusiast • MCA Student
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Cyber+Security+Enthusiast;Full+Stack+Developer;Building+Secure+and+Scalable+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;React+%7C+Node.js+%7C+Firebase;Always+Learning+Something+New" />
 </p>
-
-
-## 🚀 About Me
-
-I'm an MCA student specializing in **Cyber Security** with a strong interest in **Full Stack Development, Cloud Computing, and Secure Software Engineering**.
-
-I enjoy building real-world applications that combine:
-- Modern frontend experiences
-- Scalable backend systems
-- Secure authentication
-- Cloud technologies
-
-Currently focused on improving my skills in **software development, cybersecurity, and system design**.
-
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
+
+- 🎓 MCA Student
+- 💻 Passionate about Full Stack Development
+- 🔐 Interested in Cyber Security
+- ☁️ Currently learning AWS Cloud
+- 🚀 Building real-world scalable applications
+- 📚 Improving DSA and System Design
+- 🌱 Open to collaboration and learning
+
+---
+
+## 🚀 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
 </p>
 
-
-### Frontend Development
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-
-### Backend Development
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-
-### Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,aws" />
-</p>
-
-
-### Tools
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
 </p>
 
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux,postman" />
+</p>
 
 ---
 
-# 🔥 What I Do
+## 🏆 Featured Projects
 
-🚀 Build full-stack web applications  
-🔐 Explore cybersecurity concepts  
-☁️ Learn cloud technologies  
-⚡ Solve programming problems  
-📚 Continuously improve software engineering skills  
+### 🔐 Digital Evidence Integrity Management System
+A secure digital evidence management platform focused on integrity, access control, and forensic workflows.
 
-
----
-
-# 🏆 Featured Projects
-
-## 🛒 Vibes - E-Commerce Platform
-
-A full-stack e-commerce application with:
-
-- Authentication system
-- Product management
-- Admin dashboard
-- Shopping cart
-- Order management
-- Payment integration
-
-
-## 🔐 Digital Evidence Integrity Management System (DEIM)
-
-A cybersecurity-focused platform designed for maintaining digital evidence integrity.
-
-Features:
-
-- Evidence management
-- Secure storage
-- Access control
-- Integrity verification
-
+### 🛒 Vibes E-Commerce
+Modern e-commerce platform with authentication, admin dashboard, payment integration, and responsive UI.
 
 ---
 
-# 📈 Currently Learning
-
-🌱 Advanced React patterns  
-🌱 Backend architecture  
-🌱 AWS Cloud Services  
-🌱 Cybersecurity practices  
-🌱 Data Structures & Algorithms  
-
-
----
-
-# 🎯 2026 Goals
-
-✔ Become a professional Full Stack Developer  
-✔ Build industry-level projects  
-✔ Improve cybersecurity expertise  
-✔ Contribute to open-source projects  
-✔ Master cloud deployment  
-
-
----
-
-# 📊 GitHub Statistics
+## 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
-
 ---
 
-# 📌 Most Used Languages
+## 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adilraj786&theme=github-compact"/>
+
+</p>
 
 ---
 
-# 🤝 Connect With Me
+## 🏅 GitHub Trophies
 
-<p>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
-
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
+---
+
+## 💡 Quote
+
+> "Code with purpose. Secure by design. Learn continuously."
 
 ---
 
-# ⚡ Fun Fact
-
-> "I don't just write code, I build solutions."
-
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
