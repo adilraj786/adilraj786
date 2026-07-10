@@ -70,9 +70,9 @@ Modern e-commerce platform with authentication, admin dashboard, payment integra
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adilraj786&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilraj786&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -82,7 +82,7 @@ Modern e-commerce platform with authentication, admin dashboard, payment integra
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=adilraj786&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
